@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
+    title: `Learngram - A platform to learn via Instagram`,
     name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
+    siteUrl: `https://learngram.netify.app`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby. <a href="https://www.w3schools.com">Tech</a>.`,
       maxWidth: 652,
     },
     social: [
