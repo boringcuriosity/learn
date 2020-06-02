@@ -1,8 +1,8 @@
-- name: Dennis Brotzky
+- name: Shaheer Ahmed
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
+    Writing with love and curiosity. This is where your author bio lives. Share your work, your
     joys and of course, your Twitter handle.
-  avatar: ./avatars/dennis-brotzky.jpg
+  avatar: ./avatars/professional.png
   social:
     - url: https://unsplash.com
     - url: https://stackoverflow.com
@@ -11,7 +11,7 @@
     - url: https://github.com
   featured: true
 
-- name: Thiago Costa
+- name: Tech
   bio: |
     Written by You. This is where your author bio lives. Share your work, your
     joys and of course, your Twitter handle.
